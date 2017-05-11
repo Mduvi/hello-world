@@ -1,1 +1,2 @@
 C'est un texte de qualité.
+J'ai modifié ce text sur github.
